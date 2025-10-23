@@ -1,0 +1,6 @@
+streamlit
+scikit-surprise
+pandas
+numpy
+pickle
+os
