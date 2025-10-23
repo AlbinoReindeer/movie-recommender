@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from surprise import SVD, Dataset, Reader
+from scikit-surprise import SVD, Dataset, Reader
 from numpy.linalg import norm
 import pickle
 import os
